@@ -1,2 +1,3 @@
 # First git commit
-Hello GI
+Hello GIT
+TESTING HOW CONFLICT-MERGE WORKS
