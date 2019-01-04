@@ -1,2 +1,2 @@
-# First git commit
-Hello GI
+# CONFLICT TEST
+Hello...
