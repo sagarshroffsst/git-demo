@@ -1,3 +1,3 @@
 # First git commit
-GIt modified test
+git modified test
 Ok So adding some more lines in readme...
