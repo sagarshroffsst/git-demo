@@ -1,3 +1,2 @@
 # First git commit
-git modified test
-Ok So adding some more lines in readme...
+Hello GI
